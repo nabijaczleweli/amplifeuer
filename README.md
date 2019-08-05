@@ -3,12 +3,12 @@ An application of the TDA1521A, and also a boost circuit with an LT1071 because 
 
 #### Schematic
 
-![Schematic picture export](pictures/kicad_schematic.png)
+![Schematic picture export](pictures/kicad-amplifier-schematic.svg)
 
 #### Layout
 
-![PCB layout picture export](pictures/kicad_pcb.svg)
+![PCB layout picture export](pictures/kicad-amplifier-pcb.svg)
 
 #### Model
 
-![PCB layout 3D model](pictures/kicad_3d.png)
+![PCB layout 3D model](pictures/kicad-amplifier-3d.png)
