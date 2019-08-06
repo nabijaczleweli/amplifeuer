@@ -4,11 +4,11 @@
 !pictures
 !pictures/**
 !schematic
-!schematic/amplifeuer-schematic-cache.lib
-!schematic/amplifeuer-schematic.kicad_pcb
-!schematic/amplifeuer-schematic.net
-!schematic/amplifeuer-schematic.pro
-!schematic/amplifeuer-schematic.sch
+!schematic/*-cache.lib
+!schematic/*.kicad_pcb
+!schematic/*.net
+!schematic/*.pro
+!schematic/*.sch
 !.git*
 !*.yml
 !*Makefile
