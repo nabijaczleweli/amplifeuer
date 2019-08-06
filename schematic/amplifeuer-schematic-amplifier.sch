@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 3
 Title "amplifeuer"
 Date "2019-08-05"
 Rev "0.1.0"
@@ -337,7 +337,7 @@ U 1 1 5D4973FE
 P 9400 3200
 F 0 "U1" V 9354 3141 50  0000 L BNN
 F 1 "TDA1521A" V 9445 3141 50  0000 L BNN
-F 2 "" H 9450 1350 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical" H 9450 1350 50  0001 C CNN
 F 3 "http://www.ben.cz/_d/datasheet/tda1521a.pdf" H 9450 1450 50  0001 C CNN
 	1    9400 3200
 	0    1    1    0   
