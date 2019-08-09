@@ -3,7 +3,9 @@ An application of the TDA1521A, and also a boost circuit with an LT1071 because 
 
 #### Schematic
 
-![Schematic picture export](pictures/kicad-amplifier-schematic.svg)
+![Overall schematic export](pictures/kicad-amplifeuer-schematic.svg)
+![Amplifier schematic export](pictures/kicad-amplifeuer-schematic-amplifier.svg)
+![PSU schematic export](pictures/kicad-amplifeuer-schematic-psu.svg)
 
 #### Layout
 

@@ -6,7 +6,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 3
 Title "amplifeuer"
-Date "2019-08-05"
+Date "2019-08-09"
 Rev "0.1.0"
 Comp "nabijaczleweli"
 Comment1 ""

@@ -1,4 +1,4 @@
-update=05/08/2019 20:14:46
+update=09/08/2019 15:01:25
 version=1
 last_client=kicad
 [general]
@@ -37,7 +37,7 @@ PageLayoutDescrFile=
 PlotDirectoryName=p:/Embedded/amplifeuer/pictures/
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
