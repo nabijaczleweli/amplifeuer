@@ -390,4 +390,26 @@ F 3 "~" H 4100 3600 50  0001 C CNN
 	1    4100 3600
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:Heatsink_Pad HS11
+U 1 1 5D4D71C9
+P 5500 2400
+F 0 "HS11" H 5641 2441 50  0000 L CNN
+F 1 "Aavid-5342B" H 5641 2350 50  0000 L CNN
+F 2 "Heatsink:Heatsink_Aavid-5342-TO220_Vertical" H 5512 2350 50  0001 C CNN
+F 3 "~" H 5512 2350 50  0001 C CNN
+	1    5500 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5D4D73F1
+P 5500 2500
+F 0 "#PWR0103" H 5500 2250 50  0001 C CNN
+F 1 "GND" H 5505 2327 50  0000 C CNN
+F 2 "" H 5500 2500 50  0001 C CNN
+F 3 "" H 5500 2500 50  0001 C CNN
+	1    5500 2500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
