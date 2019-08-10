@@ -13,6 +13,7 @@
 !*.yml
 !*Makefile
 !*.sublime-project
+!LED_2x4x7mm.colours
 !LICENSE
 !gh_rsa.enc
 !README.md
