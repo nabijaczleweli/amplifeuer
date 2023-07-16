@@ -1,4 +1,4 @@
-# [amplifeuer](https://twitter.com/nabijaczleweli/status/1155789898718355456) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+# [amplifeuer](https://lfs.nabijaczleweli.xyz/0017-twitter-export#1155789898718355456) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 An application of the TDA1521A, and also a boost circuit with an LT1071 because I'm a dumbass
 
 ## Schematic
